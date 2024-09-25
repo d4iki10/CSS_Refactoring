@@ -273,6 +273,10 @@ body {
   font-size: 18px;
   font-family: 'Noto Serif JP', serif;
 }
+/* 「Pancake menu」を縦並びに変更 */
+.pancake_list_menu {
+  width: 100%;
+}
 
 /* ボタンコンポーネント */
 .btn {
